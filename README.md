@@ -186,4 +186,3 @@ I'm always open to connect for internships, full-time roles, mentorship, or coll
 
 This extension is intended for **educational and demonstration purposes only**. Betting involves risk. Always bet responsibly and in accordance with your local laws.
 
----
