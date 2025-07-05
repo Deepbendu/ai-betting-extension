@@ -1,8 +1,23 @@
 # 🧠 AI-Powered Betting Assistant – Chrome Extension
+![Made with HTML](https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-blue)
+![Chrome Extension](https://img.shields.io/badge/Platform-Chrome--Extension-green)
+![AI Integration](https://img.shields.io/badge/AI-OpenAI%2FDeepSeek-purple)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+
 
 A smart, lightweight Chrome Extension that uses AI to analyze sports betting odds, detect arbitrage opportunities, and offer intelligent, real-time betting suggestions — all inside a floating calculator panel that works on any website.
 
 > Built for real bettors, with real-time insights — right where the action happens.
+
+---
+## 🌟 Project Highlights
+
+- 🎯 **Modes**: Arbitrage Calculator, AI-Based Prediction, Multi-Bet Placer (in progress)  
+- 🧠 **AI Integration**: Uses OpenAI / DeepSeek via API (no ML expertise required)  
+- 💡 **Real-Time Use**: Injects a floating panel into any betting site  
+- ⚙️ **Built With**: HTML, CSS, JS, Chrome APIs, OpenAI API, marked.js  
+- 🔐 **No Backend**: 100% client-side – lightweight and privacy-safe
 
 ---
 
@@ -30,6 +45,31 @@ Designed to support **parlay/multi-leg betting** with:
 - Helps users plan **accumulator** or **combo** bets efficiently
 
 > This mode is under active development, with a focus on becoming the go-to tool for advanced bettors using strategy, probability, and AI to stay ahead.
+
+---
+
+## 📊 Modes Overview
+
+| Mode                | Purpose                         | Status         | Tech Used                 |
+|---------------------|----------------------------------|----------------|----------------------------|
+| Mode 1: Arbitrage    | Detect risk-free profit from odds | ✅ Completed    | HTML, JS, Math Logic       |
+| Mode 2: AI Analyzer  | Predict team win chances          | ✅ Completed    | OpenAI/DeepSeek, marked.js |
+| Mode 3: Multi-Bet    | Plan combo bets + payout calc     | 🔄 In Progress | Planned: Smart Math, UI UX |
+
+---
+
+
+## 🧪 Real-Life Use Case
+
+> Imagine you're on a betting site watching live odds.  
+You click the extension — a floating calculator appears.  
+You enter odds from two bookmakers.  
+The tool tells you:
+- Whether arbitrage is possible  
+- How much to stake on each side  
+- Which team has better winning chances via AI  
+
+All within the same tab. No switching apps. No guesswork. Just clarity.
 
 ---
 
