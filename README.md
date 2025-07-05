@@ -97,7 +97,7 @@ Instead of building a separate website, this tool runs directly on betting platf
 ## 🙋‍♂️ About Me
 
 **Deepbendu Debnath**  
-Cloud Security Explorer | AWS Builder | Full Stack Developer | C++ Enthusiast  
+Full Stack Developer | Chrome Extension Builder | AWS Certified SA | C++ Problem Solver  
 Made with ❤️ in India 🇮🇳
 
 ---
@@ -107,9 +107,8 @@ Made with ❤️ in India 🇮🇳
 I'm always open to connect for internships, full-time roles, mentorship, or collaborative builds:
 
 > ✉️ debnathdeepbendu@gmail.com  
-> 💼 [LinkedIn](http://linkedin.com/in/deepbendu-debnath)  
-> 📁 [GitHub](https://github.com/Deepbendu)  
-> 🧩 [LeetCode](https://leetcode.com/deepbendu)
+💼 [LinkedIn](http://linkedin.com/in/deepbendu-debnath) | 📁 [GitHub](https://github.com/Deepbendu) | 🧩 [LeetCode](https://leetcode.com/deepbendu)
+
 
 ---
 
