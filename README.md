@@ -68,6 +68,36 @@ Instead of building a separate website, this tool runs directly on betting platf
 - No backend, no hosting, no delays
 
 ---
+## 🔧 Manual Install Instructions (for GitHub Users)
+
+Want to try the extension locally before it’s published on the Chrome Web Store? You can get it running in under a minute:
+
+1. 📦 **Download** this repository as a ZIP file from GitHub  
+2. 🗂️ **Extract** the ZIP anywhere on your computer  
+3. 🌐 Open **Google Chrome** and go to: `chrome://extensions/`  
+4. 🧪 Enable **Developer Mode** (top right corner toggle)  
+5. 📂 Click on **“Load unpacked”**  
+6. ✅ Select the **folder you just extracted**
+
+You’re almost there! 🚀
+
+---
+
+### 🔐 Setting Up the API Key (for AI Analysis)
+
+To use Mode 2 (Bet Possibility Analyzer), you'll need an API key from OpenAI or DeepSeek:
+
+1. Go to your API provider (like [OpenAI](https://platform.openai.com/) or [OpenRouter](https://openrouter.ai/))  
+2. Copy your **API key**  
+3. In the project folder, open the file called `config.js`  
+4. Replace the placeholder value like this:
+
+```js
+// Inside config.js
+const API_KEY = "your-api-key-here";
+```
+
+---
 
 ## 🧱 Tech Stack
 
