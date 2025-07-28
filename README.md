@@ -92,10 +92,12 @@ Instead of building a separate website, this tool runs directly on betting platf
 - Floating panel on a real betting site
 - AI-generated output for a custom match query
 
+<!-- 
 ### 🎬 Video Demo
 
 > *(Insert Loom or YouTube demo link here)*  
 > Example: [Watch the Demo](https://your-demo-link.com)
+-->
 
 ---
 
