@@ -86,42 +86,69 @@ Instead of building a separate website, this tool runs directly on betting platf
 
 ## 📸 Feature Walkthrough (Screenshots)
 
-### 🧮 Arbitrage Calculator – Identify Profitable Betting Opportunities
+### 🧮 Mode 1 - Arbitrage Calculator – Identify Profitable Betting Opportunities
 
 #### ✅ Real-Time Arbitrage Calculation
-![Arbitrage Output](./screenshots/Mode1/1.1.png)
 
-#### 📊 Bet Bet Entries
-![Arbitrage History](./screenshots/mode1/1.2.png)
+
+![Arbitrage Output](./screenshots/Mode%201/1.1.png)
+
+
+#### 📊 Bet Placement History View
+
+
+![Arbitrage History](./screenshots/Mode%201/1.2.png)
+
 
 #### 🧾 Final Win Slip with Profit Summary
-![Arbitrage Result](./screenshots/mode1_result.png)
+
+
+![Arbitrage Result](./screenshots/Mode%201/1.3.1.png)
+
 
 ---
 
-### ⚔️ AI-Powered Team Comparison – Predict Likely Winners
+### ⚔️ Mode 2.1 - AI-Powered Team Comparison – Predict Likely Winners
 
 #### 🧠 AI Analysis of Team Odds & Match Potential
-![Team Comparison Output](./screenshots/mode2_output.png)
 
-#### 📊 Bet Entries
-![Team Comparison History](./screenshots/mode2_history.png)
+
+![Team Comparison Output](./screenshots/Mode%202/2.1.png)
+
+
+#### 📊 Bet Placement History View
+
+
+![Team Comparison History](./screenshots/Mode%202/2.2.png)
+
 
 #### 🧾 Final Win Slip Based on AI Recommendation
-![Team Comparison Result](./screenshots/mode2_result.png)
+
+
+![Team Comparison Result](./screenshots/Mode%202/2.3.png)
+
 
 ---
 
-### 🎯 Manual Bet Analyzer – Custom Scenario Evaluation
+### 🎯 Mode 2.2 - Manual Bet Analyzer – Custom Scenario Evaluation
 
 #### 🧠 AI Output for User-Defined Betting Scenario
-![Manual Query Output](./screenshots/mode3_output.png)
 
-#### 📊 Bet Entries
-![Manual Query History](./screenshots/mode3_history.png)
+
+![Manual Query Output](./screenshots/Mode%203/3.1.png)
+
+
+#### 📊 Bet Placement History View
+
+
+![Manual Query History](./screenshots/Mode%203/3.2.png)
+
 
 #### 🧾 Final Win Slip with Suggested Outcome
-![Manual Query Result](./screenshots/mode3_result.png)
+
+
+![Manual Query Result](./screenshots/Mode%203/3.3.png)
+
 
 
 <!-- 
