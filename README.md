@@ -84,13 +84,45 @@ Instead of building a separate website, this tool runs directly on betting platf
 
 ## 🎥 Demo & Screenshots
 
-### 📸 Screenshots
+## 📸 Feature Walkthrough (Screenshots)
 
-> *(Insert images here – recommended: 3 screenshots)*  
-> Examples:
-- Arbitrage calculator showing profit %
-- Floating panel on a real betting site
-- AI-generated output for a custom match query
+### 🧮 Arbitrage Calculator – Identify Profitable Betting Opportunities
+
+#### ✅ Real-Time Arbitrage Calculation
+![Arbitrage Output](./screenshots/Mode1/1.1.png)
+
+#### 📊 Bet Bet Entries
+![Arbitrage History](./screenshots/mode1/1.2.png)
+
+#### 🧾 Final Win Slip with Profit Summary
+![Arbitrage Result](./screenshots/mode1_result.png)
+
+---
+
+### ⚔️ AI-Powered Team Comparison – Predict Likely Winners
+
+#### 🧠 AI Analysis of Team Odds & Match Potential
+![Team Comparison Output](./screenshots/mode2_output.png)
+
+#### 📊 Bet Entries
+![Team Comparison History](./screenshots/mode2_history.png)
+
+#### 🧾 Final Win Slip Based on AI Recommendation
+![Team Comparison Result](./screenshots/mode2_result.png)
+
+---
+
+### 🎯 Manual Bet Analyzer – Custom Scenario Evaluation
+
+#### 🧠 AI Output for User-Defined Betting Scenario
+![Manual Query Output](./screenshots/mode3_output.png)
+
+#### 📊 Bet Entries
+![Manual Query History](./screenshots/mode3_history.png)
+
+#### 🧾 Final Win Slip with Suggested Outcome
+![Manual Query Result](./screenshots/mode3_result.png)
+
 
 <!-- 
 ### 🎬 Video Demo
